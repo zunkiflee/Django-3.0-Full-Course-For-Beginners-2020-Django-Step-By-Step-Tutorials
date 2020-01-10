@@ -1,0 +1,8 @@
+.\venv\Scripts\activate
+cd Testpro
+python manage.py runserver
+
+
+adminzun
+
+03.07.55
