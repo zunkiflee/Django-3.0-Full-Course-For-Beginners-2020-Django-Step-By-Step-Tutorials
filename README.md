@@ -8,10 +8,12 @@
 Database ใช้ progress sql สำหรับในวิดีโอ ใช้ xampp
 
 
-การรัน .\venv\Scripts\activate
-
-      cd Testpro
+การรัน 
       
+      .\venv\Scripts\activate
+      cd Testpro
       python manage.py runserver
+
+admin :adminzun password:adminzun
 
 cr. Parwiz Forogh Youtube : https://www.youtube.com/channel/UCD6ArU-AYbfIj5sx2L4SZAQ/videos
